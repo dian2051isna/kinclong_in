@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167441524708",
+    "project_id": "kinclongin",
+    "storage_bucket": "kinclongin.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167441524708:android:4ec139435c6c9aafbf89f1",
+        "android_client_info": {
+          "package_name": "com.example.kinclong_in"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrgo8zL9k2bMIEYEXjMJ2MmO7m6U-0u7A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
